@@ -31,3 +31,5 @@ classDiagram
 
     Main --> StudentService : uses
     StudentService "1" o-- "*" Student : manages
+
+![alt text](mermaid-diagram.png)
