@@ -1,4 +1,6 @@
 
-Class Diagram For the Student Records Management:
+# Student Register — Class Diagram
 
-![alt text] (class-diagram.png)
+The diagram below shows the classes and their relationships in the refactored Student Register application.
+
+![Student Register Class Diagram](docs/class-diagram.png)
