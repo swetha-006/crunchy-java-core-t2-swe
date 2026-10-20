@@ -1,5 +1,4 @@
 
 Class Diagram For the Student Records Management:
 
-
-![alt text](mermaid-diagram.png)
+![alt text] (docs\class-diagram.png)
